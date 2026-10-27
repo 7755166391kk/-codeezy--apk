@@ -5,10 +5,7 @@
   "server": {
     "url": "https://codeezy.lovable.app/",
     "cleartext": false,
-    "androidScheme": "https",
-    "allowNavigation": [
-      "*"
-    ]
+    "androidScheme": "https"
   },
   "android": {
     "allowMixedContent": false,
