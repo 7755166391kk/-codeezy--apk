@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">كوديز Codeezy — ابنِ مواقعك با</string>
-    <string name="title_activity_main">كوديز Codeezy — ابنِ مواقعك با</string>
-    <string name="package_name">com.app.kwdyzc</string>
-    <string name="custom_url_scheme">com.app.kwdyzc</string>
+    <string name="app_name">كوديز Codeezy — ابنِ مواقعك وت</string>
+    <string name="title_activity_main">كوديز Codeezy — ابنِ مواقعك وت</string>
+    <string name="package_name">com.hamzanajjar.kwdyzcodeezyabnmwaqakwt</string>
+    <string name="custom_url_scheme">com.hamzanajjar.kwdyzcodeezyabnmwaqakwt</string>
 </resources>
