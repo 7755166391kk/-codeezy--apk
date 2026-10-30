@@ -1,8 +1,8 @@
 {
-  "appName": "كوديز Codeezy — ابنِ مواقعك وت",
+  "appName": "كوديز Codeezy — ابنِ مواقعك با",
   "appIcon": "",
-  "packageName": "com.hamzanajjar.kwdyzcodeezyabnmwaqakwt",
-  "versionCode": 1,
+  "packageName": "com.hamzanajjar.kwdyzcodeezyabnmwaqakba",
+  "versionCode": 2,
   "versionName": "1.0",
   "keystoreMode": "auto",
   "splashEnabled": true,
@@ -38,7 +38,7 @@
   "statusBarColor": "#0f172a",
   "navBarColor": "#0f172a",
   "orientation": "portrait",
-  "fullScreen": true,
+  "fullScreen": false,
   "pinchZoom": true,
   "disableCache": false,
   "webkitMode": true,
@@ -62,7 +62,7 @@
   "targetDesktop": false,
   "targetAllDevices": true,
   "authMethods": [],
-  "websiteUrl": "https://codezo.base44.app/dashboard",
-  "generatedAt": "2026-10-29T12:41:14.308Z",
+  "websiteUrl": "https://codeezy.lovable.app/",
+  "generatedAt": "2026-10-30T22:16:54.505Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }

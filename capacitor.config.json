@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzanajjar.kwdyzcodeezyabnmwaqakwt",
-  "appName": "كوديز Codeezy — ابنِ مواقعك وت",
+  "appId": "com.hamzanajjar.kwdyzcodeezyabnmwaqakba",
+  "appName": "كوديز Codeezy — ابنِ مواقعك با",
   "webDir": "www",
   "server": {
-    "url": "https://codezo.base44.app/dashboard",
+    "url": "https://codeezy.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
